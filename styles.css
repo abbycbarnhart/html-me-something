@@ -1,0 +1,85 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 17px;
+  background-image: url("https://www.xmple.com/wallpaper/gradient-linear-pink-grey-1920x1080-c2-778899-ffb6c1-a-225-f-14.svg");
+  background-size: cover;
+}
+
+h1 {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 50px;
+  font-family:serif;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+nav ul li {
+  text-align: center;
+	display: inline-block;
+	font-size: 18px;
+  margin: 0 2em 0 2em;
+}
+
+#headShot {
+  text-align: center;
+}
+
+#summary {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.otherPics {
+  text-align: left;
+}
+
+.secondTitle {
+  text-align: center;
+  font-family: serif;
+}
+
+div.recommended {
+  line-height: 1.6;
+}
+
+figure {
+  text-align: left;
+}
+
+figcaption {
+  text-align: left;
+  font-size:14px;
+}
+
+footer {
+font-size: 14px;
+}
+
+nav {
+  text-align: center;
+}
+nav ul li a {
+  border:3px dotted lightskyblue;
+  background-color: rgb(255,255,255,0.3);
+}
